@@ -1,0 +1,8 @@
+streamlit
+plotly
+requests
+streamlit-lottie
+joblib
+pandas
+numpy
+scikit-learn==1.6.1
